@@ -72,6 +72,23 @@
 </a>
 
 </div>
+# Codolio
+
+<div align="center">
+
+<a href="https://codolio.com/profile/cs-satyam">
+  <img src="https://codolio.com/codolio_assets/codolio.svg" width="40" alt="Codolio Logo"/>
+</a>
+
+<br><br>
+
+<a href="https://codolio.com/profile/cs-satyam">
+  <img src="https://codolio.com/profile/cs-satyam/card" alt="Codolio Profile Card"/>
+</a>
+
+</div>
+
+---
 
 ---
 
