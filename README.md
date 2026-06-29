@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Software Engineer Aspirant • MERN Stack Developer • Coder
+### Software Engineer Aspirant • JAVA (SpringBoot)full  Stack Developer • Coder
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;350%2B+LeetCode+Problems;Learning+System+Design;Always+Building+Something+New" />
 
